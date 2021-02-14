@@ -1,0 +1,13 @@
+C:\Users\ismay\source\repos\csharp30\csharp30\bin\Debug\netcoreapp3.1\csharp30.exe
+C:\Users\ismay\source\repos\csharp30\csharp30\bin\Debug\netcoreapp3.1\csharp30.deps.json
+C:\Users\ismay\source\repos\csharp30\csharp30\bin\Debug\netcoreapp3.1\csharp30.runtimeconfig.json
+C:\Users\ismay\source\repos\csharp30\csharp30\bin\Debug\netcoreapp3.1\csharp30.runtimeconfig.dev.json
+C:\Users\ismay\source\repos\csharp30\csharp30\bin\Debug\netcoreapp3.1\csharp30.dll
+C:\Users\ismay\source\repos\csharp30\csharp30\bin\Debug\netcoreapp3.1\csharp30.pdb
+C:\Users\ismay\source\repos\csharp30\csharp30\obj\Debug\netcoreapp3.1\csharp30.csprojAssemblyReference.cache
+C:\Users\ismay\source\repos\csharp30\csharp30\obj\Debug\netcoreapp3.1\csharp30.AssemblyInfoInputs.cache
+C:\Users\ismay\source\repos\csharp30\csharp30\obj\Debug\netcoreapp3.1\csharp30.AssemblyInfo.cs
+C:\Users\ismay\source\repos\csharp30\csharp30\obj\Debug\netcoreapp3.1\csharp30.csproj.CoreCompileInputs.cache
+C:\Users\ismay\source\repos\csharp30\csharp30\obj\Debug\netcoreapp3.1\csharp30.dll
+C:\Users\ismay\source\repos\csharp30\csharp30\obj\Debug\netcoreapp3.1\csharp30.pdb
+C:\Users\ismay\source\repos\csharp30\csharp30\obj\Debug\netcoreapp3.1\csharp30.genruntimeconfig.cache
